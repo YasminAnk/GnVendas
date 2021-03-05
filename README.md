@@ -5,7 +5,13 @@ O projeto consiste em (a) Uma página para cadastro de produtos, cada produto de
 
 
 
-### Instruções para a instalação do projeto :wrench:
+> <img src="imagens/cadastro.png" width="425"/>
+> <img src="imagens/lista.png" width="425"/> <img src="imagens/dados.png" width="425"/> 
+
+
+
+
+## Instruções para a instalação do projeto :wrench:
 
 
 * MySql 
